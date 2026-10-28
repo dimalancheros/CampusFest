@@ -1,0 +1,190 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="bnRzufxzmnniGwxM9Z_j">
+    <mxGraphModel dx="2273" dy="1193" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RoFHO6eEXHe2aXTZstxO-1" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
+          <mxGeometry height="210" width="427" x="230" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="RoFHO6eEXHe2aXTZstxO-2" parent="RoFHO6eEXHe2aXTZstxO-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Campus Fest (organizacion)" vertex="1">
+          <mxGeometry height="30" width="80" x="173.5" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="RoFHO6eEXHe2aXTZstxO-3" parent="RoFHO6eEXHe2aXTZstxO-1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="80" width="120" x="280" y="65" as="geometry" />
+        </mxCell>
+        <mxCell id="RoFHO6eEXHe2aXTZstxO-4" parent="RoFHO6eEXHe2aXTZstxO-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="CONSULTAR EVENTOS" vertex="1">
+          <mxGeometry height="30" width="60" x="310" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="RoFHO6eEXHe2aXTZstxO-5" parent="RoFHO6eEXHe2aXTZstxO-1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="80" width="120" x="20" y="65" as="geometry" />
+        </mxCell>
+        <mxCell id="RoFHO6eEXHe2aXTZstxO-6" parent="RoFHO6eEXHe2aXTZstxO-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="CANCELAR RESERVA" vertex="1">
+          <mxGeometry height="30" width="60" x="50" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="RoFHO6eEXHe2aXTZstxO-7" edge="1" parent="RoFHO6eEXHe2aXTZstxO-1" source="RoFHO6eEXHe2aXTZstxO-5" style="endArrow=open;dashed=1;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;" target="RoFHO6eEXHe2aXTZstxO-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="140" y="230" as="sourcePoint" />
+            <mxPoint x="315" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RoFHO6eEXHe2aXTZstxO-8" parent="RoFHO6eEXHe2aXTZstxO-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="183.5" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RoFHO6eEXHe2aXTZstxO-9" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.962;exitY=0.615;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="RoFHO6eEXHe2aXTZstxO-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="120.32799999999997" y="790.06" as="sourcePoint" />
+            <mxPoint x="345" y="795" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RoFHO6eEXHe2aXTZstxO-10" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPerimeter=1;" value="ORGANIZADOR" vertex="1">
+          <mxGeometry height="60" width="30" x="90" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="RoFHO6eEXHe2aXTZstxO-11" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
+          <mxGeometry height="210" width="427" x="220" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RoFHO6eEXHe2aXTZstxO-12" parent="RoFHO6eEXHe2aXTZstxO-11" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Campus Fest (organizacion)" vertex="1">
+          <mxGeometry height="30" width="80" x="173.5" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="RoFHO6eEXHe2aXTZstxO-13" parent="RoFHO6eEXHe2aXTZstxO-11" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="80" width="120" x="280" y="65" as="geometry" />
+        </mxCell>
+        <mxCell id="RoFHO6eEXHe2aXTZstxO-14" parent="RoFHO6eEXHe2aXTZstxO-11" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="CONSULTAR EVENTOS" vertex="1">
+          <mxGeometry height="30" width="60" x="310" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="RoFHO6eEXHe2aXTZstxO-15" parent="RoFHO6eEXHe2aXTZstxO-11" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="80" width="120" x="20" y="65" as="geometry" />
+        </mxCell>
+        <mxCell id="RoFHO6eEXHe2aXTZstxO-16" parent="RoFHO6eEXHe2aXTZstxO-11" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="CONSULTAR CUPOS" vertex="1">
+          <mxGeometry height="30" width="60" x="50" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="RoFHO6eEXHe2aXTZstxO-17" edge="1" parent="RoFHO6eEXHe2aXTZstxO-11" source="RoFHO6eEXHe2aXTZstxO-15" style="endArrow=open;dashed=1;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;" target="RoFHO6eEXHe2aXTZstxO-13" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="140" y="230" as="sourcePoint" />
+            <mxPoint x="315" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RoFHO6eEXHe2aXTZstxO-18" parent="RoFHO6eEXHe2aXTZstxO-11" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="183.5" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RoFHO6eEXHe2aXTZstxO-19" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.962;exitY=0.615;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="RoFHO6eEXHe2aXTZstxO-15" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="110.32799999999997" y="110.05999999999995" as="sourcePoint" />
+            <mxPoint x="335" y="115" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RoFHO6eEXHe2aXTZstxO-20" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPerimeter=1;" value="ORGANIZADOR" vertex="1">
+          <mxGeometry height="60" width="30" x="80" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RoFHO6eEXHe2aXTZstxO-23" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
+          <mxGeometry height="210" width="427" x="220" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="RoFHO6eEXHe2aXTZstxO-24" parent="RoFHO6eEXHe2aXTZstxO-23" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Campus Fest (organizacion)" vertex="1">
+          <mxGeometry height="30" width="80" x="173.5" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="RoFHO6eEXHe2aXTZstxO-25" parent="RoFHO6eEXHe2aXTZstxO-23" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="80" width="120" x="280" y="65" as="geometry" />
+        </mxCell>
+        <mxCell id="RoFHO6eEXHe2aXTZstxO-26" parent="RoFHO6eEXHe2aXTZstxO-23" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="CONSULTAR EVENTOS" vertex="1">
+          <mxGeometry height="30" width="60" x="310" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="RoFHO6eEXHe2aXTZstxO-27" parent="RoFHO6eEXHe2aXTZstxO-23" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="80" width="120" x="20" y="65" as="geometry" />
+        </mxCell>
+        <mxCell id="RoFHO6eEXHe2aXTZstxO-28" parent="RoFHO6eEXHe2aXTZstxO-23" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="RESERVAR" vertex="1">
+          <mxGeometry height="30" width="60" x="50" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="RoFHO6eEXHe2aXTZstxO-29" edge="1" parent="RoFHO6eEXHe2aXTZstxO-23" source="RoFHO6eEXHe2aXTZstxO-27" style="endArrow=open;dashed=1;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;" target="RoFHO6eEXHe2aXTZstxO-25" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="140" y="230" as="sourcePoint" />
+            <mxPoint x="315" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RoFHO6eEXHe2aXTZstxO-30" parent="RoFHO6eEXHe2aXTZstxO-23" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="183.5" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RoFHO6eEXHe2aXTZstxO-31" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.962;exitY=0.615;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="RoFHO6eEXHe2aXTZstxO-27" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="110.32799999999997" y="330.05999999999995" as="sourcePoint" />
+            <mxPoint x="335" y="335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RoFHO6eEXHe2aXTZstxO-32" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPerimeter=1;" value="ORGANIZADOR" vertex="1">
+          <mxGeometry height="60" width="30" x="80" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="RoFHO6eEXHe2aXTZstxO-33" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
+          <mxGeometry height="210" width="427" x="220" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="RoFHO6eEXHe2aXTZstxO-34" parent="RoFHO6eEXHe2aXTZstxO-33" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Campus Fest (organizacion)" vertex="1">
+          <mxGeometry height="30" width="80" x="173.5" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="RoFHO6eEXHe2aXTZstxO-35" parent="RoFHO6eEXHe2aXTZstxO-33" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="80" width="120" x="280" y="65" as="geometry" />
+        </mxCell>
+        <mxCell id="RoFHO6eEXHe2aXTZstxO-36" parent="RoFHO6eEXHe2aXTZstxO-33" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="CONSULTAR EVENTOS" vertex="1">
+          <mxGeometry height="30" width="60" x="310" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="RoFHO6eEXHe2aXTZstxO-37" parent="RoFHO6eEXHe2aXTZstxO-33" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="80" width="120" x="20" y="65" as="geometry" />
+        </mxCell>
+        <mxCell id="RoFHO6eEXHe2aXTZstxO-38" parent="RoFHO6eEXHe2aXTZstxO-33" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="CONFIRMAR RESERVA" vertex="1">
+          <mxGeometry height="30" width="60" x="50" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="RoFHO6eEXHe2aXTZstxO-39" edge="1" parent="RoFHO6eEXHe2aXTZstxO-33" source="RoFHO6eEXHe2aXTZstxO-37" style="endArrow=open;dashed=1;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;" target="RoFHO6eEXHe2aXTZstxO-35" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="140" y="230" as="sourcePoint" />
+            <mxPoint x="315" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RoFHO6eEXHe2aXTZstxO-40" parent="RoFHO6eEXHe2aXTZstxO-33" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="183.5" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RoFHO6eEXHe2aXTZstxO-41" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.962;exitY=0.615;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="RoFHO6eEXHe2aXTZstxO-37" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="110.32799999999997" y="560.06" as="sourcePoint" />
+            <mxPoint x="335" y="565" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RoFHO6eEXHe2aXTZstxO-42" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPerimeter=1;" value="ORGANIZADOR" vertex="1">
+          <mxGeometry height="60" width="30" x="80" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="RoFHO6eEXHe2aXTZstxO-43" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
+          <mxGeometry height="210" width="427" x="220" y="940" as="geometry" />
+        </mxCell>
+        <mxCell id="RoFHO6eEXHe2aXTZstxO-44" parent="RoFHO6eEXHe2aXTZstxO-43" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Campus Fest (organizacion)" vertex="1">
+          <mxGeometry height="30" width="80" x="173.5" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="RoFHO6eEXHe2aXTZstxO-45" parent="RoFHO6eEXHe2aXTZstxO-43" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="80" width="120" x="280" y="65" as="geometry" />
+        </mxCell>
+        <mxCell id="RoFHO6eEXHe2aXTZstxO-46" parent="RoFHO6eEXHe2aXTZstxO-43" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="CONSULTAR EVENTOS" vertex="1">
+          <mxGeometry height="30" width="60" x="310" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="RoFHO6eEXHe2aXTZstxO-47" parent="RoFHO6eEXHe2aXTZstxO-43" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="80" width="120" x="20" y="65" as="geometry" />
+        </mxCell>
+        <mxCell id="RoFHO6eEXHe2aXTZstxO-48" parent="RoFHO6eEXHe2aXTZstxO-43" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="REGISTRARSE (ASISTENCIA)" vertex="1">
+          <mxGeometry height="30" width="60" x="50" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="RoFHO6eEXHe2aXTZstxO-49" edge="1" parent="RoFHO6eEXHe2aXTZstxO-43" source="RoFHO6eEXHe2aXTZstxO-47" style="endArrow=open;dashed=1;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;" target="RoFHO6eEXHe2aXTZstxO-45" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="140" y="230" as="sourcePoint" />
+            <mxPoint x="315" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RoFHO6eEXHe2aXTZstxO-50" parent="RoFHO6eEXHe2aXTZstxO-43" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="183.5" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RoFHO6eEXHe2aXTZstxO-51" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.962;exitY=0.615;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="RoFHO6eEXHe2aXTZstxO-47" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="110.32799999999997" y="1030.06" as="sourcePoint" />
+            <mxPoint x="335" y="1035" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RoFHO6eEXHe2aXTZstxO-52" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPerimeter=1;" value="ORGANIZADOR" vertex="1">
+          <mxGeometry height="60" width="30" x="80" y="1000" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
